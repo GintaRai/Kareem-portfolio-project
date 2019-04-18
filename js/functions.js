@@ -148,7 +148,6 @@ function renderWorks( data ) {
                     '+items_HTML+'\
                 </div>\
             </div>';
-
     return HTML;
 }
 
